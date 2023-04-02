@@ -55,7 +55,7 @@ function buttonAnimation(animateButton){
   setTimeout(function(){activeButton.classList.remove("pressed")}, 100);
 
 }
-=======
+
 var numOfDrumButtons = document.querySelectorAll(".drum").length;
 for (var i = 0; i < numOfDrumButtons; i++) {
 
