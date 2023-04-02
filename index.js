@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 var numOfDrumButtons = document.querySelectorAll(".drum").length;
 for (var i = 0; i < numOfDrumButtons; i++) {
 
@@ -114,4 +113,4 @@ function buttonAnimation(animateButton){
   setTimeout(function(){activeButton.classList.remove("pressed")}, 100);
 
 }
->>>>>>> a37108cd1dbcabb2678658575f3be2332ec48bc6
+
